@@ -6,5 +6,6 @@ services:
 before_install:
   - docker build -t my_test_image -f Dockerfile.dev .
 
+# Testing
 script:
   - docker run -e CI=true my_test_image npm run test
