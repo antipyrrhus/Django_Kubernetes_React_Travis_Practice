@@ -1,3 +1,7 @@
+For lectures on this project, see:
+
+https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11437116#overview
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
